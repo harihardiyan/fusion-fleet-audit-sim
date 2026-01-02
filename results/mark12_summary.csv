@@ -1,0 +1,16 @@
+Running smoke test...
+Smoke test passed: surrogate rollout produced finite final levels.
+Smoke OK. Launching example run...
+=== Mark12 monolith example run ===
+Running per-module MPC optimization (this may take a few seconds)...
+MPC done in 70.92s; U_seq shape: (20, 4)
+Running stochastic validation rollout (compilation may take longer on first run)...
+Validation stochastic rollout finished in 2.13s (includes compilation time).
+Final breed store per-module: [[1.05280192e+09]
+ [1.05001556e+09]
+ [1.05382715e+09]
+ [1.05108162e+09]]
+Final per-module stored total energies: [5.33358132e+10 5.33358132e+10 5.33358132e+10 5.33358132e+10]
+Saved per-module U_seq to mark12_Useq.csv
+Saved summary to mark12_summary.csv
+Example run complete. Check mark12_Useq.csv and mark12_summary.csv
