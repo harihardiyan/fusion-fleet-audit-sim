@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Simulation Outputs (Specific to Mark12)
+mark12_Useq.csv
+mark12_summary.csv
+
+# JAX/XLA compile artifacts
+.jax_cache/
