@@ -78,8 +78,4 @@ This project is licensed under the MIT License.
 
 ---
 *Disclaimer: This is a research-grade simulation environment intended for educational and conceptual modeling of fusion energy systems.*
-```
 
-***
-
- 
